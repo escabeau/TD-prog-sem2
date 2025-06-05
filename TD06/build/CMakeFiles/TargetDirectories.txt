@@ -1,0 +1,3 @@
+C:/Users/33767/Pictures/TDCS2/TD06/build/CMakeFiles/main.dir
+C:/Users/33767/Pictures/TDCS2/TD06/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/33767/Pictures/TDCS2/TD06/build/CMakeFiles/ZERO_CHECK.dir
